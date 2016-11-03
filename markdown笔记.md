@@ -1,4 +1,4 @@
-##### 插入表情：
+##### [插入表情](http://www.webpagefx.com/tools/emoji-cheat-sheet/)：
 
 格式：
 
@@ -6,4 +6,4 @@
   
   例如：:TADA: (字母小写) 插入表情 :tada:
 
-##### 插入表情：
+##### 
